@@ -4,4 +4,4 @@
 Test Application #4 - Dice Shuffle App
 
 
-Test Application #5 - Boss Level - Magic Balls
+Test Application #5 - Boss Level - Magic8 Ball
