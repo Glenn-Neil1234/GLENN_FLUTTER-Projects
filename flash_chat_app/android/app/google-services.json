@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048794925709",
+    "project_id": "quick-chat-c7d53",
+    "storage_bucket": "quick-chat-c7d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048794925709:android:fe60e1973025003903f0c4",
+        "android_client_info": {
+          "package_name": "com.GlennVill.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048794925709-tdf6qm6s8ice5k91rgt0a3jm8ap0fra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxeJj4t3vBVnAZkEqnSmvEkvSCGj3mBDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048794925709-tdf6qm6s8ice5k91rgt0a3jm8ap0fra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
