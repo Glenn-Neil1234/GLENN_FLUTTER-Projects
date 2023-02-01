@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237277099369",
+    "project_id": "neil-recipeapp",
+    "storage_bucket": "neil-recipeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237277099369:android:f5b80e3af26b2661c779f8",
+        "android_client_info": {
+          "package_name": "com.GNVillegas.recipe_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237277099369-l2u2g82536fn1jj8fm2irc6bs2j91pa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9BU8ETohSaJZ7y43eWTTWLhkszh8lO84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237277099369-l2u2g82536fn1jj8fm2irc6bs2j91pa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
